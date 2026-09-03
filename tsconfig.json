@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "target": "esnext",
+    "module": "esnext",
+    "moduleResolution": "bundler",
+    "outDir": "build",
+    "rootDir": "src",
+    "incremental": true,
+    "allowJs": false,
+    "strict": true,
+    "noImplicitAny": true,
+    "resolveJsonModule": false,
+    "sourceMap": true
+  }
+}

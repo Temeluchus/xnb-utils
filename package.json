@@ -1,0 +1,25 @@
+{
+  "name": "xnb-utils",
+  "version": "1.0.0",
+  "description": "XNB parser",
+  "type": "module",
+  "scripts": {
+    "build": "tsc"
+  },
+  "author": "Temeluchus",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "6.0.0",
+    "dxt-js": "0.0.3",
+    "fast-png": "8.0.0",
+    "lz4": "0.6.5",
+    "walk": "2.3.15"
+  },
+  "devDependencies": {
+    "@types/lz4": "0.6.4",
+    "@types/node": "26.4.1",
+    "@types/walk": "2.3.4",
+    "prettier": "3.9.6",
+    "typescript": "7.0.2"
+  }
+}
